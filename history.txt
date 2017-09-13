@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  echo
+    3  echo x=10
+    4  echo The value of variable x = $x
+    5  echo -e "mani \bsauc \bmiks
+    6  echo -e "mani \nsauc \nmiks"
+    7  echo -e "mani \bsauc \bmiks"
+    8  echo -e "mani \rsauc \bmiks
+    9  pwd
+   10  echo -e "mani \bsauc \bmiks"
+   11  echo -e "mani \rsauc \bmiks"
+   12  echo -e "mani \csauc \bmiks"
+   13  echo *.jpeg
+   14  echo -e "Mani sauc \aMiks"
+   15  echo -e "mani \nsauc \nmiks"
+   16  echo -e "Mani \tsauc \aMiks"
+   17  echo -e "Mani \tsauc \tMiks"
+   18  echo -e "mani \tsauc \nmiks"
+   19  echo -e "mani \tsauc \vmiks"
+   20  echo -e "mani \vsauc \vmiks"
+   21  echo -e "\vmani \tsauc \vmiks"
+   22  echo -e "mani \tsauc \vmiks"
+   23  echo -e "\vmani \sauc \vmiks"
+   24  echo -e "mani \vsauc \vmiks"
+   25  echo -e "mani \vsauc \rmiks"
+   26  echo -e "mani \vsauc \nmiks"
+   27  echo -e "mani \nsauc \nmiks"
+   28  echo -e "mani \nsauc \vmiks"
+   29  echo -e "mani \vsauc \vmiks"
+   30  echo -e "mani \vsauc \miks"
+   31  echo -e "\vmani \sauc \vmiks"
+   32  echo -e "mani \vsauc \miks"
+   33  echo -e "mani \vsauc \vmiks"
+   34  echo -n "mani \vsauc \vmiks"
+   35  echo -e "mani \vsauc \vmiks"
+   36  echo -e "mani \rsauc \rmiks"
+   37  echo -e "mani \\sauc \\miks"
+   38  echo -e "mani \vsauc \vmiks"
+   39  echo -e "mani \vsauc \cmiks"
+   40  pwd
+   41  echo "Test Page" > testpage
+   42  echo "darbi" > darbi1
+   43  echo -n "Mani sauc miks"
+   44  ls -a
+   45  echo *
+   46  rmdir testpage
+   47  cat darbi1
+   48  echo "Test page" > teksts.txt
+   49  pwd
+   50  ls -l
+   51  ls
+   52  ls l
+   53  history > history.txt
