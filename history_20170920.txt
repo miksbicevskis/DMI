@@ -1,0 +1,28 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/miksbicevskis/DMI
+    3  ls
+    4  whereis ls
+    5  cat /bin/ls
+    6  ls -l /bin/ls
+    7  echo $PATH
+    8  /bin/ls
+    9  ls
+   10  pwd
+   11  PATH=/home/user:$PATH
+   12  echo $PATH
+   13  ls -l
+   14  nano git-upload
+   15  ls -l
+   16  chmod 744 git-upload
+   17  ls -l
+   18  ls la
+   19  ls -la
+   20  git-upload
+   21  pwd
+   22  PATH=$PATH:/home/user
+   23  git-upload
+   24  ls -l
+   25  mv git-upload ./DMI/
+   26  cd DMI/
+   27  ls -l
+   28  history > history_20170920.txt 
