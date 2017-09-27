@@ -1,0 +1,28 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/miksbicevskis/DMI
+    3  ls -l
+    4  cd DMI
+    5  ls -la
+    6  _ALI
+    7  TOKEN_A
+    8  VAR_1
+    9  VAR_2
+   10  NAME="Miks"
+   11  #!/bin/sh
+   12  mainiigais=10
+   13  echo $mainiigais
+   14  pwd
+   15  nano shell_programming.sh
+   16  ls -l
+   17  chmod 744 shell_programming.sh
+   18  ls -l
+   19  shell_programming.sh
+   20  ./shell_programming.sh 
+   21  cat shell_programming.sh 
+   22  nano shell_programming.sh
+   23  ./shell_programming.sh 
+   24  nano shell_programming.sh
+   25  ./shell_programming.sh 
+   26  pwd
+   27  nano git-upload 
+   28  history > history_20170927.txt
