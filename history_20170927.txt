@@ -26,3 +26,37 @@
    26  pwd
    27  nano git-upload 
    28  history > history_20170927.txt
+   29  git- upload
+   30  pwd
+   31  PATH=$PATH:/home/user/DMI
+   32  echo PATH
+   33  echo $PATH
+   34  git-upload
+   35  pwd
+   36  nano shell_programming.sh 
+   37  echo $0
+   38  echo $$
+   39  echo $n
+   40  echo $#
+   41  echo $*
+   42  echo $@
+   43  echo $?
+   44  nano shell_programming.sh 
+   45  cat shell_programming.sh 
+   46  shell_programming.sh 
+   47  shell_programming.sh  arg1
+   48  shell_programming.sh  arg1 arg2
+   49  shell_programming.sh  arg1 arg2 arg3
+   50  nano shell_programming.sh 
+   51  shell_programming.sh  arg1 arg2 arg3
+   52  nano shell_programming.sh 
+   53  shell_programming.sh  arg1 arg2 arg3
+   54  shell_programming.sh  
+   55  nano shell_programming.sh 
+   56  shell_programming.sh  
+   57  shell_programming.sh  arg1 arg2 arg3
+   58  nano shell_programming.sh 
+   59  shell_programming.sh  arg1 arg2 arg3
+   60  nano shell_programming.sh 
+   61  nano git-upload
+   62  history > history_20170927.txt
