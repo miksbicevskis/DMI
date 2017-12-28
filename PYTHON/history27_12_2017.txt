@@ -1,0 +1,46 @@
+    1  ls
+    2  cd DMI
+    3  LS
+    4  ls
+    5  nano 1LD
+    6  1LD
+    7  ls
+    8  chmod 774 1LD
+    9  LS
+   10  ls
+   11  1LD
+   12  cd PYTHON
+   13  ls
+   14  nano 3LD
+   15  ls
+   16  nano 3LD
+   17  python 3LD
+   18  nano 3LD
+   19  python 3LD
+   20  ls
+   21  nano sin_caur_summu_ver3.py
+   22  nano 3LD
+   23  ls
+   24  rm 3LD
+   25  LS
+   26  ls
+   27  nano sin_caur_summu_ver4.py
+   28  nano sin_caur_summu_ver5.py
+   29  nano sin_caur_summu_ver3.py 
+   30  nano sin_caur_summu_ver2.py 
+   31  ls
+   32  nano sin_caur_summu_ver2_.py
+   33  nano sin_caur_summu_ver3.py
+   34  nano sin_caur_summu_zimesana_.py_
+   35  ls
+   36  nano zimesana_.py
+   37  ls -a
+   38  nano 2MD_sin^2(x)
+   39  nano 2MD_sin^2(x).py
+   40  nano 2MD.py
+   41  nano 3LD.py 
+   42  ls
+   43  nano derivative_.py
+   44  ls -a
+   45  nano dihotomija.py
+   46  history > history27_12_2017.txt
