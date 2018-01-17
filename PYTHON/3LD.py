@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np #1 import matplotlib.pyplot as plt #2 def 
-sinuss(x): #6b
+sinuss(x):(sin(x))**2 
     k=1
     a = (-1)**2*2**1*x**2/(2*k)
     S = a
@@ -28,3 +28,4 @@ funa * funb > 0:
     else:
         b = x print "a=%.9f f(%.9f)=%12.9f b=%.9f"%(a,x,funx,b) print 
 "Iterāciju skaits: %d"%(k)
+
