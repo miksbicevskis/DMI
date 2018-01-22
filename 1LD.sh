@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-echo -n "Lietotaj, ludzu, ievadi skaitli: "
+echo -n "Lietotāj, lūdzu, ievadiet skaitli: "
 read a
 
 
