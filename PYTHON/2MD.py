@@ -1,7 +1,7 @@
 from math import sin
 
 x = 1. * input("Lietotaj ludzu ievadiet argumentu (x): ")
-y = (sin(x))**2
+y = (sin(x*x))
 print "sin^2(%6.2f) = %6.2f" %(x,y)
 
 k=1

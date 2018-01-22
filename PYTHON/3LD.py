@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np #1 import matplotlib.pyplot as plt #2 def 
-sinuss(x):(sin(x))**2 
+sinuss(x):sin (x*x)
     k=1
     a = (-1)**2*2**1*x**2/(2*k)
     S = a
