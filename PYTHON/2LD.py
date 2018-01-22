@@ -1,7 +1,7 @@
 # _*_ coding: utf-8 _*_
 from math import sin 
 
-x = 1. * input("Lietotaj ludzu ievadiet argumentu (x): ")
+x = 1. * input("Lietotāj lūdzu ievadiet argumentu x : ")
 y = sin(x*x)
 print "sin(%6.2f)^2 = %6.2f" %(x,y)
 
@@ -17,9 +17,9 @@ while k < 3:
     S = S + a
     print "a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
 
-print "Beigas!"
 
-'''
+
+
 k = k + 1
 a = a*(-1)*x**2/((2*k)*(2*k+1))
 S = S + a
@@ -28,6 +28,6 @@ k = k + 1
 a = a*(-1)*x**2/((2*k)*(2*k+1))
 S = S + a
 print "a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
-'''
+
 
 
