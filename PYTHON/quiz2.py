@@ -3,15 +3,15 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
-def mans_sinuss(x): sin(x*x)
-    y = np.sin(x)
+def mans_sinuss(x):
+    y = x#np.sin(x)
     return y
 
 N = 100000
 x = []
 y = []
 a = 0.
-b = np.pi
+b = 4#np.pi
 c = -4.
 d = 4.
 
@@ -44,3 +44,4 @@ plt.show()
 areaRect = (b-a)*(d-c)
 areaFunc = areaRect * len(green_x) / N
 print areaFunc
+
