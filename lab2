@@ -1,0 +1,2 @@
+syms c a x b
+solve(a+exp(b*x^2-x)',x)
