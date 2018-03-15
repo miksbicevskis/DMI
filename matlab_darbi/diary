@@ -1,0 +1,98 @@
+editor
+{Undefined function or variable 'editor'.
+} 
+edit
+ y_sin = A0+A*sin(2*pi*f*(t-delay);
+                                  ↑
+{Error: Unbalanced or unexpected parenthesis or bracket.
+} 
+lab3_demo
+{Error: <a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo.m',6,34)">File: lab3_demo.m Line: 6 Column: 34
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+lab3_demo
+{Undefined function or variable 't'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab3_demo', '/home/user/DMI/matlab_darbi/lab3_demo.m', 6)" style="font-weight:bold">lab3_demo</a> (<a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo.m',6,0)">line 6</a>)
+y_sin = A0+A*sin(2*pi*f*(t-delay));
+} 
+lab3_demo
+lab3_demo
+xlim([0 8])
+hold on
+lab3_demo
+lab3_demo
+
+y_zero =
+
+  Columns 1 through 21
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 22 through 42
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 43 through 63
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 64 through 84
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+  Columns 85 through 101
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0     0
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rand')" style="font-weight:bold">rand</a>
+Size inputs must be integers.
+} 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('rand')" style="font-weight:bold">rand</a>
+Size inputs must be integers.
+} 
+hold off
+lab3_demo
+lab3_demo
+lab3_demo_fun
+{Error: <a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo_fun.m',9,54)">File: lab3_demo_fun.m Line: 9 Column: 54
+</a>Expression or statement is incomplete or incorrect.
+} 
+lab3_demo_fun
+{Error: <a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo_fun.m',13,22)">File: lab3_demo_fun.m Line: 13 Column: 22
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+lab3_demo_fun
+{Error: <a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo_fun.m',13,22)">File: lab3_demo_fun.m Line: 13 Column: 22
+</a>The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+lab3_demo_fun
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab3_demo_fun', '/home/user/DMI/matlab_darbi/lab3_demo_fun.m', 5)" style="font-weight:bold">lab3_demo_fun</a> (<a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo_fun.m',5,0)">line 5</a>)
+t_zero_f = (t>=0)&(t<1); t_zero = t(t_zero_f);
+} 
+t = 0:0.01:8;
+y = lab3_demo_fun(t);
+{Undefined function or variable 't_const_f'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab3_demo_fun', '/home/user/DMI/matlab_darbi/lab3_demo_fun.m', 11)" style="font-weight:bold">lab3_demo_fun</a> (<a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo_fun.m',11,0)">line 11</a>)
+t_const = (t>=4.5)&(t<6.5); t_const = t(t_const_f);
+} 
+plot(t,y)
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same length.
+} 
+y = lab3_demo_fun(4)
+{Undefined function or variable 't_const_f'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('lab3_demo_fun', '/home/user/DMI/matlab_darbi/lab3_demo_fun.m', 11)" style="font-weight:bold">lab3_demo_fun</a> (<a href="matlab: opentoline('/home/user/DMI/matlab_darbi/lab3_demo_fun.m',11,0)">line 11</a>)
+t_const = (t>=4.5)&(t<6.5); t_const = t(t_const_f);
+} 
+y = lab3_demo_fun(4)
+
+y =
+
+    0.4222
+
+diary off
