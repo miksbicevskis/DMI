@@ -10,7 +10,6 @@ t_noise_f = (t>=2.5)&(t<4.5); t_noise = t(t_noise_f);
 %t_const = 4.5:0.01:6.5;
 t_const_f = (t>=4.5)&(t<6.5); t_const = t(t_const_f);
 %t_saw = 6.5:0.01:8;
-t_saw_f = (t>=6.5)&(t<=8); t_saw = t(t_saw_f);
 %% Gabalveida signala montaza
 %% Sinusoida
 %y_sin = A0+A*sin(2*pi*f*(t-delay))
