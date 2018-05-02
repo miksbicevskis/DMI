@@ -1,53 +1,128 @@
     1  VirtualBox --startvm XP
-    2  echo
-    3  echo x=10
-    4  echo The value of variable x = $x
-    5  echo -e "mani \bsauc \bmiks
-    6  echo -e "mani \nsauc \nmiks"
-    7  echo -e "mani \bsauc \bmiks"
-    8  echo -e "mani \rsauc \bmiks
-    9  pwd
-   10  echo -e "mani \bsauc \bmiks"
-   11  echo -e "mani \rsauc \bmiks"
-   12  echo -e "mani \csauc \bmiks"
-   13  echo *.jpeg
-   14  echo -e "Mani sauc \aMiks"
-   15  echo -e "mani \nsauc \nmiks"
-   16  echo -e "Mani \tsauc \aMiks"
-   17  echo -e "Mani \tsauc \tMiks"
-   18  echo -e "mani \tsauc \nmiks"
-   19  echo -e "mani \tsauc \vmiks"
-   20  echo -e "mani \vsauc \vmiks"
-   21  echo -e "\vmani \tsauc \vmiks"
-   22  echo -e "mani \tsauc \vmiks"
-   23  echo -e "\vmani \sauc \vmiks"
-   24  echo -e "mani \vsauc \vmiks"
-   25  echo -e "mani \vsauc \rmiks"
-   26  echo -e "mani \vsauc \nmiks"
-   27  echo -e "mani \nsauc \nmiks"
-   28  echo -e "mani \nsauc \vmiks"
-   29  echo -e "mani \vsauc \vmiks"
-   30  echo -e "mani \vsauc \miks"
-   31  echo -e "\vmani \sauc \vmiks"
-   32  echo -e "mani \vsauc \miks"
-   33  echo -e "mani \vsauc \vmiks"
-   34  echo -n "mani \vsauc \vmiks"
-   35  echo -e "mani \vsauc \vmiks"
-   36  echo -e "mani \rsauc \rmiks"
-   37  echo -e "mani \\sauc \\miks"
-   38  echo -e "mani \vsauc \vmiks"
-   39  echo -e "mani \vsauc \cmiks"
-   40  pwd
-   41  echo "Test Page" > testpage
-   42  echo "darbi" > darbi1
-   43  echo -n "Mani sauc miks"
-   44  ls -a
-   45  echo *
-   46  rmdir testpage
-   47  cat darbi1
-   48  echo "Test page" > teksts.txt
-   49  pwd
-   50  ls -l
-   51  ls
-   52  ls l
-   53  history > history.txt
+    2  quartus
+    3  git clone https://github.com/miksbicevskis/DMI
+    4  cd DMI
+    5  ls
+    6  cd t
+    7  ls
+    8  cd ..
+    9  ls
+   10  cd Downloads/
+   11  ls
+   12  tar -xvf 
+   13  tar -xvf node-v8.11.1-linux-x64.tar.xz 
+   14  ls
+   15  cd node-v8.11.1-linux-x64/
+   16  ls
+   17  cd bin
+   18  ls
+   19  ./node
+   20  cd ..
+   21  ls
+   22  cd user
+   23  ls
+   24  cd DMI
+   25  cd t
+   26  ls
+   27  cd node-v6.14.1-linux-x64/
+   28  ls
+   29  cd bin
+   30  ls
+   31  cd ..
+   32  cd node-v6.14.1-linux-x64/
+   33  cd bin
+   34  PATH=`pwd`:$PATH
+   35  LS
+   36  ls
+   37  ./node
+   38  ./npm
+   39  ./npm i http-server
+   40  ls
+   41  cd node_modules
+   42  ls
+   43  cd http-server/
+   44  ls
+   45  cd bin
+   46  ls
+   47  PATH=`pwd`:$PATH
+   48  ls
+   49  echo $PATH
+   50  cd..
+   51  cd ..
+   52  ./http-server
+   53  cd ..
+   54  cd t
+   55  http-server 
+   56  ls
+   57  cd node-v6.14.1-linux-x64/
+   58  ls
+   59  cd bin
+   60  ./npm i bower
+   61  ls
+   62  cd node_modules/
+   63  ls
+   64  cd bower
+   65  PATH=`pwd`:$PATH
+   66  CD ..
+   67  cd ..
+   68  bower
+   69  cd node-v6.14.1-linux-x64/
+   70  ls
+   71  cd bin
+   72  ls
+   73  cd node_modules/
+   74  ls
+   75  cd bower
+   76  ls
+   77  cd bin
+   78  PATH=`pwd`:$PATH
+   79  cd ..
+   80  bower
+   81  cd node-v6.14.1-linux-x64/
+   82  bower install vaadin/vaadin-date-picker 
+   83  ls
+   84  cd ..
+   85  ls
+   86  nano kalendars.html
+   87  cd node-v6.14.1-linux-x64/
+   88  ls
+   89  cd bower_components/
+   90  ls
+   91  cd vaadin-date-picker/
+   92  ls
+   93  cd ..
+   94  nano kalendars.html 
+   95  pwd
+   96  nano kalendars.html 
+   97  html-server
+   98  ls
+   99  cd node-v6.14.1-linux-x64/
+  100  html-server
+  101  cd bin
+  102  ls
+  103  cd node_modules/
+  104  ls
+  105  cd ..
+  106  http-server 
+  107  nano kalendars.html 
+  108  http-server 
+  109  nano kalendars.html 
+  110  http-server 
+  111  nano kalendars.html 
+  112  ls
+  113  cd node-v6.14.1-linux-x64/
+  114  ls
+  115  cd bin
+  116  ls
+  117  cd node_modules/
+  118  ls
+  119  cd ..
+  120  ls
+  121  cd bower_components/
+  122  ls
+  123  cd vaadin-date-picker
+  124  cd ..
+  125  nano kalendars.html 
+  126  http-server 
+  127  cd ..
+  128  history>history.txt
